@@ -1,0 +1,3 @@
+[submodule "static-files"]
+	path = static-files
+	url = git@github.com:liudonghua123/geogebra-electron-app.git
