@@ -4,8 +4,8 @@
     "version": "0.1.0"
   },
   "build": {
-    "distDir": "static-files",
-    "devPath": "localhost",
+    "distDir": "../static-files/html",
+    "devPath": "../static-files/html",
     "beforeDevCommand": "",
     "beforeBuildCommand": ""
   },
@@ -51,7 +51,7 @@
     },
     "windows": [
       {
-        "title": "Geogebra-app",
+        "title": "geogebra-app",
         "width": 800,
         "height": 600,
         "resizable": true,
