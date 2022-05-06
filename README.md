@@ -90,7 +90,11 @@ This is yet another geogebra desktop app, running in an [Tauri](https://tauri.st
 
 ## Does it work?
 
-Yes! Quite well, actually - on macOS, Windows, and Linux.
+Yes! Quite well, actually - on macos, Windows, and Linux.
+
+Notes: For macos users, If you do not want to open security settings to reopen the app, you could remove `com.apple.quarantine` metadata (see also [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491), [How to disable the quarantine popup in macOS Big Sur](https://hiringengineersbook.com/post/disable-quarantine/)) for the downloaded files.
+
+![img](.github/images/geogebra-app-xattr.png)
 
 ## Credits
 
